@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709418167950",
+    "firebase_url": "https://wimd2go.firebaseio.com",
+    "project_id": "wimd2go",
+    "storage_bucket": "wimd2go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709418167950:android:667db7500af7c22138e3df",
+        "android_client_info": {
+          "package_name": "net.shop1234.wimd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709418167950-loj2t1urcu74vapt8n018jla3dkt0l98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf_Cb59nktigaIwDzNjxj6Zbq1jO94b6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709418167950-loj2t1urcu74vapt8n018jla3dkt0l98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
